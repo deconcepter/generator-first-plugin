@@ -1,0 +1,2 @@
+# Generatorプラグインのサンプル
+Codezine用のサンプルです。
